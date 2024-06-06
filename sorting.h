@@ -1,4 +1,4 @@
-
+#pragma once
 class sorting{
 
 public:
@@ -13,4 +13,3 @@ public:
 
 };
 
-///end of sorting.h
